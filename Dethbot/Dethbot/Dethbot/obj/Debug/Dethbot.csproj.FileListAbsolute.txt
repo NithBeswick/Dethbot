@@ -1,0 +1,7 @@
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\bin\Debug\DarkCodex.Dethbot.dll
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\bin\Debug\DarkCodex.Dethbot.pdb
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\bin\Debug\robocode.dll
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\bin\Debug\robocode.xml
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\obj\Debug\Dethbot.csprojResolveAssemblyReference.cache
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\obj\Debug\DarkCodex.Dethbot.dll
+F:\Game-Projects\Robocode\Dethbot\Dethbot\Dethbot\obj\Debug\DarkCodex.Dethbot.pdb
